@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Tejas 👋
 
-<!--
-**tejasrajsingh/tejasrajsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Engineering Undergrad** at Manipal University Jaipur  
+💡 Interested in Systems Programming, Backend Development, and Problem Solving  
+🌱 Currently honing my fundamentals in C, Data Structures & Algorithms, and Linux  
+📫 Reach me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or via [Email](mailto:your_email@example.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C, Python (or C++)
+- **Developer Tools:** Git, GitHub, Linux / Bash, VS Code
+- **Coursework & Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasrajsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="Tejas' GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasrajsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
